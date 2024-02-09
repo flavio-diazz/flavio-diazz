@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Sinqia | Evertec as Infrastructure & Cloud Analyst
 - 🌱 I’m currently focused on learning and developing my skills in IaC tools, as well as Docker and Kubernetes
 
-### Technologies - 
+### Skills - 
 
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="50"/>
