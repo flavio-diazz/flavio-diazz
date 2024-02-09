@@ -6,7 +6,9 @@
 ### Technologies 
 
 <div>
-            <i class="devicon-amazonwebservices-plain-wordmark colored"></i>   
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+           
 </div>
 
 
