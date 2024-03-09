@@ -8,6 +8,13 @@
 ### What I'm currently learning :mag_right:
 - I’m currently focused on learning and developing my skills in IaC tools, as well as Docker and Kubernetes
 
+<div>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="50"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50" />      
+</div>
+
 ### Skills :rocket:
 - Windows Server and client
 - MS365
@@ -15,14 +22,6 @@
 - AWS
 - Support
 - Linux
-
-### Interests :eyes:
-<div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" width="50" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="50"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50" />      
-</div>
 
 ### Certifications :trophy:
 - AZ-104 Administrator
