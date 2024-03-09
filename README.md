@@ -2,8 +2,8 @@
 
 ## About me
 :house: I currently reside in São Paulo, Brazil.
-- I work as an Infrastructure and Cloud Analyst at Sinqia | Evertec.
 :mortar_board: I hold a degree in Computer Networks.
+- I work as an Infrastructure and Cloud Analyst at Sinqia | Evertec.
 
 ## What I'm currently learning :mag_right:
 - I’m currently focused on learning and developing my skills in IaC tools, as well as Docker and Kubernetes
