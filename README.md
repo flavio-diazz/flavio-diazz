@@ -5,6 +5,14 @@
 - I hold a degree in Computer Networks  :mortar_board: 
 - I work as an Infrastructure and Cloud Analyst at Sinqia | Evertec  :credit_card:
 
+### Skills :rocket:
+- Windows Server and client
+- MS365
+- Azure
+- AWS
+- Support
+- Linux
+
 ### What I'm currently learning :mag_right:
 - I’m currently focused on learning and developing my skills in IaC tools, as well as Docker and Kubernetes
 
@@ -14,14 +22,6 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50" />      
 </div>
-
-### Skills :rocket:
-- Windows Server and client
-- MS365
-- Azure
-- AWS
-- Support
-- Linux
 
 ### Certifications :trophy:
 - AZ-104 Administrator
@@ -41,6 +41,7 @@
 </div>
 
 #### Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -- Steve Jobs
+
 
 Enjoy it!! o/
 
