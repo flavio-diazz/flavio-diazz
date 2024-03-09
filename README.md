@@ -1,9 +1,9 @@
 ### Hello, I`m Flavio Dias :metal:
 
 ## About me
-- I currently reside in São Paulo, Brazil :house: 
-- I hold a degree in Computer Networks :mortar_board: 
-- I work as an Infrastructure and Cloud Analyst at Sinqia | Evertec.
+- I currently reside in São Paulo, Brazil  :house: 
+- I hold a degree in Computer Networks  :mortar_board: 
+- I work as an Infrastructure and Cloud Analyst at Sinqia | Evertec  :credit_card:
 
 ## What I'm currently learning :mag_right:
 - I’m currently focused on learning and developing my skills in IaC tools, as well as Docker and Kubernetes
@@ -25,6 +25,15 @@
 </div>
 
 ## Certifications :trophy:
+●	AZ-104 Administrator – Microsoft - 2022
+●	SC-900 Security, Compliance and Identity Fundamentals – Microsoft – 2022
+●	MS-100 - Microsoft 365 Identity and Services – 2023 
+●	MS-900 365 Certified – Microsoft - 2022
+●	AZ-900 Fundamentals – Microsoft - 2021
+●	AWS Cloud Practitioner – AWS - 2022
+●	Oracle Cloud Infrastructure Foundations – Oracle - 2021
+●	ITIL V4 - Foundation Certificate in IT Service Management – AXELOS - 2022
+
 
 ### Contact 
 <div>
