@@ -25,15 +25,14 @@
 </div>
 
 ## Certifications :trophy:
-●	AZ-104 Administrator – Microsoft - 2022
-●	SC-900 Security, Compliance and Identity Fundamentals – Microsoft – 2022
-●	MS-100 - Microsoft 365 Identity and Services – 2023 
-●	MS-900 365 Certified – Microsoft - 2022
-●	AZ-900 Fundamentals – Microsoft - 2021
-●	AWS Cloud Practitioner – AWS - 2022
-●	Oracle Cloud Infrastructure Foundations – Oracle - 2021
-●	ITIL V4 - Foundation Certificate in IT Service Management – AXELOS - 2022
-
+- AZ-104 Administrator
+- SC-900 Security, Compliance and Identity Fundamentals
+- MS-100 - Microsoft 365 Identity and Services
+- MS-900 365 Certified
+- AZ-900 Fundamentals
+- AWS Cloud Practitioner
+- Oracle Cloud Infrastructure Foundations
+- ITIL V4
 
 ### Contact 
 <div>
@@ -44,7 +43,7 @@
 
 - Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -- Steve Jobs
 
-- Thanks for visiting.
+- Thanks for visiting 
 
 - Enjoy it!! o/
 
