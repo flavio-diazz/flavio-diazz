@@ -1,14 +1,14 @@
 ### Hello, I`m Flavio Dias :metal:
 
 ## About me
-- I currently reside in São Paulo, Brazil.
+:house: I currently reside in São Paulo, Brazil.
 - I work as an Infrastructure and Cloud Analyst at Sinqia | Evertec.
-- I hold a degree in Computer Networks.
+:mortar_board: I hold a degree in Computer Networks.
 
 ## What I'm currently learning
 - I’m currently focused on learning and developing my skills in IaC tools, as well as Docker and Kubernetes
 
-## Skills
+## Skills :rocket:
 - Windows Server and client
 - MS365
 - Azure
@@ -24,7 +24,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50" />      
 </div>
 
-## Certifications
+## Certifications :trophy:
 
 ### Contact 
 <div>
