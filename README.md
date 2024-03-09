@@ -1,4 +1,4 @@
-### Hello, I`m Flavio Dias
+### Hello, I`m Flavio Dias :metal:
 
 ## About me
 - I currently reside in São Paulo, Brazil.
