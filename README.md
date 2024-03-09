@@ -1,8 +1,8 @@
 ### Hello, I`m Flavio Dias :metal:
 
 ## About me
-:house: I currently reside in São Paulo, Brazil.
-:mortar_board: I hold a degree in Computer Networks.
+I currently reside in São Paulo, Brazil :house: 
+I hold a degree in Computer Networks :mortar_board: 
 - I work as an Infrastructure and Cloud Analyst at Sinqia | Evertec.
 
 ## What I'm currently learning :mag_right:
