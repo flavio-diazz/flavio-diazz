@@ -5,7 +5,7 @@
 - I work as an Infrastructure and Cloud Analyst at Sinqia | Evertec.
 :mortar_board: I hold a degree in Computer Networks.
 
-## What I'm currently learning
+## What I'm currently learning :mag_right:
 - I’m currently focused on learning and developing my skills in IaC tools, as well as Docker and Kubernetes
 
 ## Skills :rocket:
