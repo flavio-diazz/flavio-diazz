@@ -1,14 +1,14 @@
-### Hello, I`m Flavio Dias :metal:
+## Hello, I`m Flavio Dias :metal:
 
-## About me
+### About me
 - I currently reside in São Paulo, Brazil  :house: 
 - I hold a degree in Computer Networks  :mortar_board: 
 - I work as an Infrastructure and Cloud Analyst at Sinqia | Evertec  :credit_card:
 
-## What I'm currently learning :mag_right:
+### What I'm currently learning :mag_right:
 - I’m currently focused on learning and developing my skills in IaC tools, as well as Docker and Kubernetes
 
-## Skills :rocket:
+### Skills :rocket:
 - Windows Server and client
 - MS365
 - Azure
@@ -24,7 +24,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="50" />      
 </div>
 
-## Certifications :trophy:
+### Certifications :trophy:
 - AZ-104 Administrator
 - SC-900 Security, Compliance and Identity Fundamentals
 - MS-100 - Microsoft 365 Identity and Services
@@ -41,11 +41,11 @@
 </a>
 </div>
 
-- Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -- Steve Jobs
+#### Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma – which is living with the results of other people's thinking. -- Steve Jobs
 
-- Thanks for visiting 
+Thanks for visiting 
 
-- Enjoy it!! o/
+Enjoy it!! o/
 
 
 
